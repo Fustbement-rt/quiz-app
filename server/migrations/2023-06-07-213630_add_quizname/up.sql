@@ -1,0 +1,2 @@
+ALTER TABLE quizes
+ADD quiz_name VARCHAR NOT NULL UNIQUE;

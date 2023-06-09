@@ -1,0 +1,2 @@
+ALTER TABLE questions
+ADD question VARCHAR NOT NULL;
